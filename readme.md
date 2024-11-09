@@ -69,6 +69,7 @@
 
 3. 발표자료 (PDF)
 
-   - [발표자료](https://github.com/wjsghk1267/3rd_team_project/blob/private/wallpaper/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%88%98%ED%96%89%20%EA%B2%B0%EA%B3%BC_1%ED%8C%80_%EB%B0%98%EC%82%AC%EB%AA%A8.pdf)
+   - [발표자료](https://github.com/wjsghk1267/3rd_team_project/blob/private/wallpaper/프로젝트%20수행%20결과_1팀_반사모.pdf)
+
 
 
